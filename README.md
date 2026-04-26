@@ -1,6 +1,6 @@
 # Papers — Alexandru Mares
 
-> Research output across four domains. Papers move from private preparation to public release at version 1.0.0, accompanied by a Zenodo DOI and (where applicable) an arXiv preprint.
+> Research output across five domains. Papers move from private preparation to public release at version 1.0.0, accompanied by a Zenodo DOI and (where applicable) an arXiv preprint.
 
 **Author:** Alexandru Mares — [allemaar.com](https://allemaar.com)
 **ORCID:** [0009-0009-6713-9780](https://orcid.org/0009-0009-6713-9780)
@@ -9,7 +9,7 @@
 
 ## Research domains
 
-The work spans four research programs. Each domain has its own paper repo namespace under `allemaar/{domain-slug}-{paper-slug}`.
+The work spans five research programs. Each domain has its own paper repo namespace under `allemaar/{domain-slug}-{paper-slug}`.
 
 ### EA — Elastic Automators
 
@@ -42,6 +42,14 @@ A constructed notation for AI cognition. Grammar and vocabulary are decoupled, e
 ### SEN — Sightline Encoding Notation
 
 A compiled reading format. Pre-implementation research on encoding text for non-linear cognitive consumption.
+
+| # | Title | Status | Repo | DOI | arXiv |
+|---|---|---|---|---|---|
+| — | _Papers in preparation — listed at release-candidate status_ | — | — | — | — |
+
+### SAI — Sai (才) — Sentient Autonomous Intelligence
+
+A *Sai* (才, *innate ability, capacity*) is a class of cognitive system designed to grow alongside a single human handler over a decadal timescale. Research in this domain treats *Sai* as a synthetic species rather than a tool — the focus is on bonding, ethics as character, continuity across time, and the role of YON as the cognitive format a Sai thinks in. Initial papers frame the species, the bond, and the lifecycle; later work addresses governance, fleet coordination across multiple Sais, and end-of-life questions (succession, archival, legacy).
 
 | # | Title | Status | Repo | DOI | arXiv |
 |---|---|---|---|---|---|
