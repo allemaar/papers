@@ -1,6 +1,6 @@
 # Papers — Alexandru Mares
 
-> Research output across five domains. Papers move from private preparation to public release at version 1.0.0, accompanied by a Zenodo DOI and (where applicable) an arXiv preprint.
+> Research output across six domains. Papers move from private preparation to public release at version 1.0.0, accompanied by a Zenodo DOI and (where applicable) an arXiv preprint.
 
 **Author:** Alexandru Mares — [allemaar.com](https://allemaar.com)
 **ORCID:** [0009-0009-6713-9780](https://orcid.org/0009-0009-6713-9780)
@@ -9,7 +9,7 @@
 
 ## Research domains
 
-The work spans five research programs. Each domain has its own paper repo namespace under `allemaar/{domain-slug}-{paper-slug}`.
+The work spans six research programs. Each domain has its own paper repo namespace under `allemaar/{domain-slug}-{paper-slug}`.
 
 ### EA — Elastic Automators
 
@@ -22,6 +22,16 @@ A diagnostic vocabulary for language-model-driven workflow systems. Argues that 
 **Concept DOI** (always resolves to latest version): [10.5281/zenodo.19802017](https://doi.org/10.5281/zenodo.19802017)
 
 **Keywords:** elastic automation · elastic automator · large language models · agentic systems · LLM workflows · compound AI systems · diagnostic frame · AI evaluation · philosophy of AI · position paper · terminology
+
+### TSH — Token-Substrate Hypothesis
+
+A position paper paired with a pre-specified multi-model probe study. Argues that for a large language model the externally writable in-context token sequence *IS* the cognitive substrate for category-use — not a representation OF cognition that runs on some deeper substrate, but the substrate itself. Tests the hypothesis with the *Coinage Probe*: a paired-trial elicitation that scores an LLM's distinguishability on a coined term against named near-neighbors before and after a one-sentence canonical definition.
+
+| # | Title | Status | Repo | DOI | arXiv |
+|---|---|---|---|---|---|
+| 1 | The Limits of My Tokens: The Token-Substrate Hypothesis and the Coinage Probe | Release candidate v0.4.1 — Zenodo deposit pending | [allemaar/tsh-position-paper](https://github.com/allemaar/tsh-position-paper) | _pending_ | _pending_ |
+
+**Keywords:** token-substrate hypothesis · coinage probe · lexical reachability · large language models · in-context learning · linguistic relativity · Sapir-Whorf · Wittgenstein · symbol grounding · concept coinage · LLM evaluation · position paper
 
 ### TK — Textual Kinematics
 
