@@ -29,7 +29,9 @@ A position paper paired with a pre-specified multi-model probe study. Argues tha
 
 | # | Title | Status | Repo | DOI | arXiv |
 |---|---|---|---|---|---|
-| 1 | The Limits of My Tokens: The Token-Substrate Hypothesis and the Coinage Probe | Release candidate v1.0.0 — Zenodo publish pending; DOI reserved | [allemaar/tsh-position-paper](https://github.com/allemaar/tsh-position-paper) | [10.5281/zenodo.20157153](https://doi.org/10.5281/zenodo.20157153) | _pending_ |
+| 1 | The Limits of My Tokens: The Token-Substrate Hypothesis and the Coinage Probe | Published v1.0.0 — 2026-05-13 | [allemaar/tsh-position-paper](https://github.com/allemaar/tsh-position-paper) | [10.5281/zenodo.20157153](https://doi.org/10.5281/zenodo.20157153) | _pending_ |
+
+**Concept DOI** (always resolves to latest version): [10.5281/zenodo.20157152](https://doi.org/10.5281/zenodo.20157152)
 
 **Keywords:** token-substrate hypothesis · coinage probe · lexical reachability · large language models · in-context learning · linguistic relativity · Sapir-Whorf · Wittgenstein · symbol grounding · concept coinage · LLM evaluation · position paper
 
