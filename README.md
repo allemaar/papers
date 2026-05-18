@@ -1,4 +1,4 @@
-# Papers — Alexandru Mares
+﻿# Papers — Alexandru Mares
 
 > Research output across six domains. Papers move from private preparation to public release at version 1.0.0, accompanied by a Zenodo DOI and (where applicable) an arXiv preprint.
 
@@ -59,7 +59,7 @@ A compiled reading format. Pre-implementation research on encoding text for non-
 |---|---|---|---|---|---|
 | — | _Papers in preparation — listed at release-candidate status_ | — | — | — | — |
 
-### SAI — Sai (才) — Sentient Autonomous Intelligence
+### SAI — Sai (才) — Synthetic Autonomous Intelligence
 
 A *Sai* (才, *innate ability, capacity*) is a class of cognitive system designed to grow alongside a single human handler over a decadal timescale. Research in this domain treats *Sai* as a synthetic species rather than a tool — the focus is on bonding, ethics as character, continuity across time, and the role of YON as the cognitive format a Sai thinks in. Initial papers frame the species, the bond, and the lifecycle; later work addresses governance, fleet coordination across multiple Sais, and end-of-life questions (succession, archival, legacy).
 
